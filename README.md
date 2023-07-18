@@ -1,4 +1,4 @@
-# NYC_Taxi_Trip_Time_Prediction
+# NYC_Taxi_Trip_Time_Prediction_Capston_Project
 
 The goal of this project is to develop a predictive model that accurately estimates the total ride duration for taxi trips in New York City. The primary dataset used for this task is the one released by the NYC Taxi and Limousine Commission, which includes essential information such as pick-up time, geographic coordinates, number of passengers, and several other variables.
 
